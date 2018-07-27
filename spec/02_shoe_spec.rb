@@ -8,6 +8,9 @@ describe 'Shoe' do
   end
 
   describe 'properties' do
+    
+    
+    
     it 'has a brand' do
       # When must the brand be assigned for this to work?
       expect(shoe.brand).to eq("Nike")
